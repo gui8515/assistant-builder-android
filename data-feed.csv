@@ -1,0 +1,8 @@
+﻿name_file;local;link
+3534162-studio.sdk-patcher.zip;Android\Sdk\patcher\v4;https://dl.google.com/android/repository/3534162-studio.sdk-patcher.zip
+emulator-windows-6953278.zip;Android\Sdk\emulator;https://dl.google.com/android/repository/emulator-windows-6953278.zip
+platform-tools_r30.0.5-windows.zip;Android\Sdk\platform-tools;https://dl.google.com/android/repository/platform-tools_r30.0.5-windows.zip
+sdk-tools-windows-4333796.zip;Android\Sdk\tools;https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip
+sources-30_r01.zip;Android\Sdk\sources\android-30;https://dl.google.com/android/repository/sources-30_r01.zip
+efbaa277338195608aa4e3dbd43927e97f60218c.build-tools_r30.0.2-windows.zip;Android\Sdk\build-tools\30.0.2;https://dl.google.com/android/repository/efbaa277338195608aa4e3dbd43927e97f60218c.build-tools_r30.0.2-windows.zip
+platform-30_r03.zip;Android\Sdk\platforms\android-30;https://dl.google.com/android/repository/platform-30_r03.zip
